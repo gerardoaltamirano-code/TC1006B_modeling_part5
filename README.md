@@ -7,10 +7,8 @@ In the previous tutorials, we created interactive charts and maps with Plotly Ex
 By the end of this tutorial, you will be able to:
 
 * create KPIs from a DataFrame;
-* convert Plotly figures into HTML fragments;
-* describe a dashboard layout in a prompt;
-* use generative AI to create the HTML and CSS structure of a dashboard; and
-* export the complete dashboard as an HTML file.
+* convert Plotly figures into HTML fragments; and
+* use generative AI to create and export an interactive HTML dashboard.
 
 ## Business question
 
