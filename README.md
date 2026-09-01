@@ -294,7 +294,6 @@ fig_world.show()
 
 ---
 
-
 ### 4. Adjust the graphs
 
 ue the following code to correct the adjustment of the figures and the size of the texts.
@@ -334,6 +333,7 @@ for fig in figures:
     fig.update_annotations(font_size=9)
 ```
 
+---
 
 ## 5. Convert the figures to HTML
 
@@ -437,6 +437,7 @@ Other options you can use as inspiration for specifying the colors of the webpag
 ```
 
 ### Example of generated code:
+
 ```text
 html = f"""
 <!DOCTYPE html>
